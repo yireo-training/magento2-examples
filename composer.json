@@ -31,6 +31,10 @@
         "magento2-di-basics": {
             "type": "vcs",
             "url": "git+ssh://git@github.com/yireo-training/magento2-di-basics"
+        },
+        "magento2-di-recipes": {
+            "type": "vcs",
+            "url": "git+ssh://git@github.com/yireo-training/magento2-di-recipes"
         }
 	}
 }
