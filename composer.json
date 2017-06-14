@@ -35,6 +35,10 @@
         "magento2-di-recipes": {
             "type": "vcs",
             "url": "git+ssh://git@github.com/yireo-training/magento2-di-recipes"
+        },
+        "tig": {
+            "type": "composer",
+            "url": "https://buckaroomagento2.tig.nl"
         }
 	}
 }
