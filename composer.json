@@ -8,6 +8,7 @@
     ],
     "require": {
         "composer/composer": "@alpha",
+	"tig/buckaroo": "^3.1",
         "yireo-training/magento2-di-basics": "dev-master",
         "yireo-training/magento2-di-recipes": "dev-master",
         "yireo-training/magento2-example-address-field-comment": "dev-master",
@@ -39,5 +40,5 @@
             "type": "composer",
             "url": "https://buckaroomagento2.tig.nl"
         }
-	}
+    }
 }
