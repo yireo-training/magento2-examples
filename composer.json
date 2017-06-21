@@ -25,7 +25,8 @@
         "yireo-training/magento2-example-theme-jpeg-logo": "dev-master",
         "yireo-training/magento2-example-theme-skeleton": "dev-master",
         "yireo-training/magento2-example-module-sample": "dev-master",
-        "yireo-training/magento2-example-modal": "dev-master"
+        "yireo-training/magento2-example-modal": "dev-master",
+	"yireo-training/magento2-example-plugin-inject-variables-into-block": "dev-master"
     },
     "repositories": {
         "magento2-di-basics": {
