@@ -1,42 +1,47 @@
 {
-    "name": "yireo-training/magento2-examples",
-    "description": "Magento 2 examples",
-    "version": "0.0.2",
-    "license": [
-        "OSL-3.0",
-        "AFL-3.0"
-    ],
-    "require": {
-        "composer/composer": "@alpha",
-        "yireo-training/magento2-di-basics": "dev-master",
-        "yireo-training/magento2-di-recipes": "dev-master",
-        "yireo-training/magento2-example-address-field-comment": "dev-master",
-        "yireo-training/magento2-example-address-field-note": "dev-master",
-        "yireo-training/magento2-example-js-component1": "dev-master",
-        "yireo-training/magento2-example-js-component2": "dev-master",
-        "yireo-training/magento2-example-js-component3": "dev-master",
-        "yireo-training/magento2-example-js-component4": "dev-master",
-        "yireo-training/magento2-example-cms-block": "dev-master",
-        "yireo-training/magento2-example-layout-updates": "dev-master",
-        "yireo-training/magento2-example-module-skeleton": "dev-master",
-        "yireo-training/magento2-example-observer": "dev-master",
-        "yireo-training/magento2-example-simple-block": "dev-master",
-        "yireo-training/magento2-example-theme-jpeg-logo": "dev-master",
-        "yireo-training/magento2-example-theme-skeleton": "dev-master",
-        "yireo-training/magento2-example-module-sample": "dev-master",
-        "yireo-training/magento2-example-modal": "dev-master",
-	"yireo-training/magento2-example-setup": "dev-master",
-	"yireo-training/magento2-example-setup-recurring": "dev-master",
-	"yireo-training/magento2-example-plugin-inject-variables-into-block": "dev-master"
+  "name": "yireo-training/magento2-examples",
+  "description": "Magento 2 examples",
+  "version": "0.0.2",
+  "license": [
+    "OSL-3.0",
+    "AFL-3.0"
+  ],
+  "require": {
+    "composer/composer": "@alpha",
+    "yireo-training/magento2-di-basics": "dev-master",
+    "yireo-training/magento2-di-recipes": "dev-master",
+    "yireo-training/magento2-example-address-field-comment": "dev-master",
+    "yireo-training/magento2-example-address-field-note": "dev-master",
+    "yireo-training/magento2-example-js-component1": "dev-master",
+    "yireo-training/magento2-example-js-component2": "dev-master",
+    "yireo-training/magento2-example-js-component3": "dev-master",
+    "yireo-training/magento2-example-js-component4": "dev-master",
+    "yireo-training/magento2-example-cms-block": "dev-master",
+    "yireo-training/magento2-example-layout-updates": "dev-master",
+    "yireo-training/magento2-example-module-skeleton": "dev-master",
+    "yireo-training/magento2-example-observer": "dev-master",
+    "yireo-training/magento2-example-simple-block": "dev-master",
+    "yireo-training/magento2-example-theme-jpeg-logo": "dev-master",
+    "yireo-training/magento2-example-theme-skeleton": "dev-master",
+    "yireo-training/magento2-example-module-sample": "dev-master",
+    "yireo-training/magento2-example-modal": "dev-master",
+    "yireo-training/magento2-example-setup": "dev-master",
+    "yireo-training/magento2-example-setup-recurring": "dev-master",
+    "yireo-training/magento2-example-plugin-inject-variables-into-block": "dev-master",
+    "yireo-training/magento2-example-uicomponent-mixin": "dev-master",
+    "yireo-training/magento2-example-notify-cart-update": "dev-master",
+    "yireo-training/magento2-example-step-checkout": "dev-master",
+    "yireo-training/magento2-example-viewmodel-with-configuration": "dev-master",
+    "yireo-training/magento2-example-viewmodel": "dev-master"
+  },
+  "repositories": {
+    "magento2-di-basics": {
+      "type": "vcs",
+      "url": "git+ssh://git@github.com/yireo-training/magento2-di-basics"
     },
-    "repositories": {
-        "magento2-di-basics": {
-            "type": "vcs",
-            "url": "git+ssh://git@github.com/yireo-training/magento2-di-basics"
-        },
-        "magento2-di-recipes": {
-            "type": "vcs",
-            "url": "git+ssh://git@github.com/yireo-training/magento2-di-recipes"
-        }
+    "magento2-di-recipes": {
+      "type": "vcs",
+      "url": "git+ssh://git@github.com/yireo-training/magento2-di-recipes"
     }
+  }
 }
