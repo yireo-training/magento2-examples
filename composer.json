@@ -51,6 +51,7 @@
     "yireo-training/magento2-example-theme-skeleton": "@dev",
     "yireo-training/magento2-example-uicomponent-mixin": "@dev",
     "yireo-training/magento2-example-viewmodel-with-configuration": "@dev",
-    "yireo-training/magento2-example-viewmodel": "@dev"
+    "yireo-training/magento2-example-viewmodel": "@dev",
+    "yireo-training/magento2-example-widget": "@dev"
   }
 }
